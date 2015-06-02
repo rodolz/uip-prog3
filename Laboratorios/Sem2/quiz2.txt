@@ -1,0 +1,8 @@
+Interactivo:
+ Este metodo utiliza un intérprete para scripts que puede ejecutar desde la línea de comandos o como aplicación si hace clic dos veces sobre su icono. 
+ Pero también es un intérprete interactivo que puede evaluar sentencias y expresiones arbitrarias.
+ Esto es muy útil para la depuración, programación rápida y pruebas.
+
+Normal:
+ Este modo es utilizando cualquier edito de texto, al finalizar el proyecto se guarda el archivo con extension
+.py, y desde consola se utiliza el comando python para intepretar.
