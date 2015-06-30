@@ -17,7 +17,6 @@ while preg=="s" or preg=="S":
 			cifrada2.append(des)
 	elif cond == "3":
 		for x in cifrada2:
-			cifrada2.remove(x)
 			cif=ord(x)-1  		# Se descifra la palabra introducida en el cond==1
 			cifrada3.append(cif)
 		for x in cifrada3:
