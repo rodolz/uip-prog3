@@ -1,0 +1,1 @@
+Ejemplo de impresion de un archivo de texto
